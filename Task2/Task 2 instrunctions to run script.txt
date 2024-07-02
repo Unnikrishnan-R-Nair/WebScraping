@@ -1,0 +1,15 @@
+# Task 2 instruction
+
+1) create a virtual environment
+
+    python -m virtualenv venv 
+
+2) Activate virtual environment
+
+    venv\Scripts\activate
+    
+
+3) pip install -r requirements.txt
+
+
+4)then in cli run command  - python unnikrishnan_kia.py
